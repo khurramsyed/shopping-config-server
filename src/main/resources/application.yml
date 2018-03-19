@@ -1,0 +1,15 @@
+spring:
+ config:
+  name: configserver
+ cloud:
+  config:
+   server:
+    git:
+     uri: https://github.com/khurramsyed/shopping-config
+     searchPaths: {application}
+
+## todo later add Options for management , supporting different environments etc.
+
+server:
+ port: 8888
+
