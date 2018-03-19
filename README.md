@@ -1,4 +1,4 @@
-# Config-Server
+# Config-Server  [![Build Status](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
 
 Config server is an implementation of spring cloud config server. It provides externalisation for clients on the cloud native applications.
 
