@@ -1,4 +1,4 @@
-# Config-Server  
+# Config-Server  [![Build Status](https://travis-ci.org/khurramsyed/shopping-config-server.svg?branch=master)](https://travis-ci.org/khurramsyed/shopping-config-server)
 
 Config server is an implementation of spring cloud config server. It provides externalisation for clients on the cloud native applications.
 
